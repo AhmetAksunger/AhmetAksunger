@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently studying Computer Engineering on Istanbul Bilgi University<br>- 🌱 I’m currently learning Python-Selenium and Java OOP<br>- ✨ Also trying to develop datasets and AI's using Roboflow 
+- 🔭 I’m currently studying Computer Engineering on Istanbul Bilgi University<br>- 🌱 I’m currently learning Python-Selenium and Java OOP<br>- 🔭 Trying to improve OpenCV2 skills<br>- ✨ Also trying to develop datasets and AI's using Roboflow 
 
 
 ## 🌐 Socials:
