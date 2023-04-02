@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently studying Computer Engineering on Istanbul Bilgi University<br>- 🌱 I’m currently learning Python-Selenium and Java OOP<br>- 🔭 Trying to improve OpenCV2 skills<br>- ✨ Also trying to develop datasets and AI's using Roboflow 
-
+Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi University with a full scholarship. I'm developing some open-source projects here in my GitHub.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-aksünger-102981254) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCEbf_pelFExWvRZ7C0Zl4sQ) 
