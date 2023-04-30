@@ -13,6 +13,8 @@ Currently focusing on Java Spring.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmetAksunger&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetAksunger&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+[![Ahmet Aksunger's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmetAksunger&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmetAksunger&icon=0&color=0)](https://visitcount.itsvg.in)
 
