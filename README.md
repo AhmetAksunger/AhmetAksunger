@@ -9,9 +9,9 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
@@ -28,21 +28,21 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-🌆 Daytime                349 commits         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-🌃 Evening                604 commits         ███████████░░░░░░░░░░░░░░   44.54 % 
-🌙 Night                  390 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌞 Morning                13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+🌆 Daytime                345 commits         ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+🌃 Evening                585 commits         ███████████░░░░░░░░░░░░░░   43.98 % 
+🌙 Night                  387 commits         ███████░░░░░░░░░░░░░░░░░░   29.10 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Tuesday                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Wednesday                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Thursday                 214 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Friday                   170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Sunday                   246 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Monday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Tuesday                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Wednesday                194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Thursday                 205 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Friday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Saturday                 163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Sunday                   244 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
 ```
 
 
@@ -52,24 +52,24 @@ Sunday                   246 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Java                     14 hrs 31 mins      ████████████████████████░   96.86 % 
-XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Git                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Java                     15 hrs 33 mins      ███████████████████████░░   92.64 % 
+XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Git                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-IntelliJ                 14 hrs 59 mins      █████████████████████████   100.00 % 
+IntelliJ                 16 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-playground               10 hrs 2 mins       █████████████████░░░░░░░░   67.05 % 
-ays-be                   2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Thread                   2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-JavaDesignPatterns       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+playground               8 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.05 % 
+todo-list-with-quarkus   2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+ays-be                   2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Thread                   2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+code-with-quarkus        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 💻 Operating System: 
-Linux                    14 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -89,7 +89,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2023 22:38:07 UTC
+ Last Updated on 13/11/2023 18:36:53 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
