@@ -9,13 +9,15 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 336.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,014 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,24 +52,20 @@ Sunday                   250 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Java                     6 hrs 32 mins       ████████████████████████░   96.34 % 
-XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     4 hrs 52 mins       █████████████████████████   99.50 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-IntelliJ                 6 hrs 47 mins       █████████████████████████   100.00 % 
+IntelliJ                 4 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-playground               5 hrs 38 mins       █████████████████████░░░░   83.14 % 
-blackjack                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-ays-be                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Thread                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+playground               4 hrs 7 mins        █████████████████████░░░░   84.41 % 
+blackjack                33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 💻 Operating System: 
-Linux                    6 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -87,7 +85,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2023 18:35:50 UTC
+ Last Updated on 27/11/2023 18:36:36 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
