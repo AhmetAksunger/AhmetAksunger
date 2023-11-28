@@ -9,9 +9,9 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -28,21 +28,21 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-🌆 Daytime                358 commits         ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌃 Evening                612 commits         ███████████░░░░░░░░░░░░░░   44.80 % 
-🌙 Night                  383 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌞 Morning                13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+🌆 Daytime                352 commits         ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+🌃 Evening                590 commits         ███████████░░░░░░░░░░░░░░   44.19 % 
+🌙 Night                  380 commits         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Tuesday                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Thursday                 214 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Friday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Sunday                   250 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Wednesday                191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Thursday                 205 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Saturday                 163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Sunday                   247 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 ```
 
 
@@ -85,7 +85,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2023 18:36:36 UTC
+ Last Updated on 28/11/2023 18:37:42 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
