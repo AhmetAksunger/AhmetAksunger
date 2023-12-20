@@ -17,6 +17,8 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 
 > 📦 336.5 kB Used in GitHub's Storage 
  > 
+> 🏆 1,066 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -50,16 +52,19 @@ Sunday                   271 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 40 mins        █████████████████████████   99.42 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+playground               1 hr 39 mins        ████████████████████████░   97.66 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+ays-be                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -79,7 +84,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2023 18:35:26 UTC
+ Last Updated on 20/12/2023 18:37:04 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
