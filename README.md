@@ -9,15 +9,13 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 337.0 kB Used in GitHub's Storage 
- > 
-> 🏆 1,076 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,23 +50,23 @@ Sunday                   271 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Java                     4 hrs 53 mins       █████████████████████░░░░   83.14 % 
-C++                      56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-ObjectiveC               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Java                     2 hrs 15 mins       █████████████████░░░░░░░░   69.54 % 
+C++                      56 mins             ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+ObjectiveC               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-IntelliJ                 4 hrs 55 mins       █████████████████████░░░░   83.79 % 
-CLion                    57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+IntelliJ                 2 hrs 18 mins       ██████████████████░░░░░░░   70.71 % 
+CLion                    57 mins             ███████░░░░░░░░░░░░░░░░░░   29.29 % 
 
 🐱‍💻 Projects: 
-ays-be                   2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.02 % 
-playground               2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.77 % 
-assignment_1             57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+ays-be                   2 hrs               ███████████████░░░░░░░░░░   61.64 % 
+assignment_1             57 mins             ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+playground               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 💻 Operating System: 
-Linux                    5 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -88,7 +86,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 18:35:24 UTC
+ Last Updated on 30/12/2023 18:35:50 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
