@@ -9,15 +9,13 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 337.1 kB Used in GitHub's Storage 
- > 
-> 🏆 21 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,24 +50,24 @@ Sunday                   264 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Java                     5 hrs 58 mins       ███████████████████████░░   93.71 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Java                     7 hrs 27 mins       ████████████████████████░   94.90 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-IntelliJ                 6 hrs 22 mins       █████████████████████████   100.00 % 
+IntelliJ                 7 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-StockManagementStudyCase 3 hrs               ████████████░░░░░░░░░░░░░   47.18 % 
-ays-be                   1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-bouncing-ball-circular-bo1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-playground               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+StockManagementStudyCase 3 hrs               ██████████░░░░░░░░░░░░░░░   38.28 % 
+playground               1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+ays-be                   1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+bouncing-ball-circular-bo1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 💻 Operating System: 
-Linux                    6 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -89,7 +87,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2024 18:35:20 UTC
+ Last Updated on 10/02/2024 18:36:26 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
