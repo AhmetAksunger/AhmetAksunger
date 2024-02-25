@@ -52,16 +52,18 @@ Sunday                   268 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 22 mins        █████████████████████████   99.33 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+playground               1 hr 20 mins        ████████████████████████░   96.23 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -81,7 +83,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2024 18:35:40 UTC
+ Last Updated on 25/02/2024 18:35:14 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
