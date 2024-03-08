@@ -17,6 +17,8 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 
 > 📦 337.1 kB Used in GitHub's Storage 
  > 
+> 🏆 23 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -79,7 +81,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2024 18:35:38 UTC
+ Last Updated on 08/03/2024 18:35:26 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
