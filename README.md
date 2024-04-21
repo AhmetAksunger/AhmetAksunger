@@ -50,16 +50,19 @@ Sunday                   264 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+unit-test                13 mins             ████████████████████░░░░░   81.26 % 
+Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+graphs-and-applications  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+coin_flip                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -79,7 +82,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2024 18:36:03 UTC
+ Last Updated on 21/04/2024 18:35:14 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
