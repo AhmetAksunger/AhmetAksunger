@@ -17,6 +17,8 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 
 > 📦 374.4 kB Used in GitHub's Storage 
  > 
+> 🏆 79 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -84,7 +86,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 18:38:29 UTC
+ Last Updated on 01/07/2024 18:39:12 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
