@@ -15,7 +15,7 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi U
 
 **🐱 My GitHub Data** 
 
-> 📦 374.4 kB Used in GitHub's Storage 
+> 📦 374.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,7 +79,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2024 18:42:15 UTC
+ Last Updated on 04/09/2024 18:40:52 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
