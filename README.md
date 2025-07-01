@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student in Istanbul Bilgi University with a full scholarship. <br>I'm developing some open-source projects here in my GitHub.<br><br>Currently focusing on Java Spring & React.js<br><br>#OpenToWork
+Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student at Technische Hochschule Augsburg, Germany. <br>I'm developing some open-source projects here in my GitHub.<br>
 
 
 ## 🌐 Socials:
