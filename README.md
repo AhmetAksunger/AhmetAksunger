@@ -17,8 +17,6 @@ Hey, I'm Ahmet Aksünger. I'm a Computer Engineering student at Technische Hochs
 
 > 📦 375.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -81,7 +79,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AhmetAksunger/AhmetAksunger/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2025 18:54:26 UTC
+ Last Updated on 16/07/2025 18:53:44 UTC
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
